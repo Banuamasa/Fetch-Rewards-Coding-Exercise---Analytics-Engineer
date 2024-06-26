@@ -1,0 +1,28 @@
+Subject: Data Quality Issues for the Fetch Rewards
+
+Hi ,
+
+Hope you are doing well! I'm part of the Data Analytics team and have recently been handling several requests from the business team. During my analysis, I've identified some significant data quality issues that I believe need urgent attention.
+
+Firstly, I'd like to clarify the relationship between brand barcode and product barcode on receipts. My understanding was that they should match, but upon investigation, I found discrepancies where many barcodes do not align. Could you please provide clarification on how brands are associated with items on receipts when barcodes do not match?
+
+Additionally, I've encountered several other data quality issues:
+
+Brandcode Issues:
+
+There are 54 instances where the brand code does not display the correct value, showing instead as a barcode.
+Approximately 234 brand codes are completely missing.
+Action Required: I will need assistance from the product catalog team to obtain the correct values. I can share the list of affected items with you.
+
+Users Missing in Users Table:
+
+About 117 users have receipts but are not present in the Users table.
+There are also duplicates in the Users table.
+Action Required: I can provide the list of missing and duplicate users to the product support team. This might be related to a registration bug in the app.
+Furthermore, I have concerns regarding scalability. As our customer engagement grows, I've noticed some receipts containing over 400 items. This could potentially strain our database cluster.
+
+Please let me know if we need any additional call to discuss further on this.
+
+Best regards,
+Banu Amasa
+Data Science & Analytics Team
