@@ -1,4 +1,6 @@
-# Fetch-Rewards-Coding-Exercise---Analytics-Engineer
+## Fetch-Rewards-Coding-Exercise---Analytics-Engineer
+### Requirement:
+https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html
 
 ### Data Model: 
 https://github.com/Banuamasa/Fetch-Rewards-Coding-Exercise---Analytics-Engineer/blob/main/ER%20Diagram.png
@@ -7,5 +9,6 @@ https://github.com/Banuamasa/Fetch-Rewards-Coding-Exercise---Analytics-Engineer/
 ### Evaluated the data quality issues with exploratory data analysis in Jupyter Notebook: 
 https://github.com/Banuamasa/Fetch-Rewards-Coding-Exercise---Analytics-Engineer/blob/main/Fetch%20Rewards%20Exploratory%20Data%20Analysis.ipynb
 ### E-mail to the stake holders:
+https://github.com/Banuamasa/Fetch-Rewards-Coding-Exercise---Analytics-Engineer/blob/main/e-mail.txt
 
 
